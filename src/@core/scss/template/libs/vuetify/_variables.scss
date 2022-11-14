@@ -1,0 +1,6 @@
+// @forward "@core/scss/base/libs/vuetify/variables";
+
+
+@forward "@core/scss/base/libs/vuetify/variables" with (
+    $button-color: skyblue !default,
+);
