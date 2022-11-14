@@ -1,4 +1,5 @@
-@forward "vuetify/settings" with (
-    $card-color: red,
-    $button-border-radius: 24px,
-);
+@forward "../../@core/scss/base/libs/vuetify/variables";
+
+// @use "../../@core/scss/base/libs/vuetify/variables" with (
+//     $button-color: orange,
+// );

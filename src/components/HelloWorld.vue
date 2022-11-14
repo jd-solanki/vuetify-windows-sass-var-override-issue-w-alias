@@ -34,7 +34,6 @@
 
         <v-col cols="auto">
           <v-btn
-            color="primary"
             href="https://next.vuetifyjs.com/introduction/why-vuetify/#feature-guides"
             min-width="228"
             rel="noopener noreferrer"
